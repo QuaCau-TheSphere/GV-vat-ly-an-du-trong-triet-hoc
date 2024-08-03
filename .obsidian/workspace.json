@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "8bf0e571c91c50a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b65ed11396be90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff374789d55b95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d8f307e38e31876",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b0ccac391536af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776a43425fc4ec1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ef979fa3da220f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "row",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a13cf94dec68cc87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "058d2be84526927e",
+    "type": "split",
+    "children": [
+      {
+        "id": "728331c0ed2f1d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcec014384cb2a9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0d685f03805e1d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30b982237b07c592",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3654ebe218592e69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "4ff374789d55b95c",
+  "lastOpenFiles": [
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Vấn đề của các sách vật lý viết cho độc giả phổ thông là chúng bị bám vào lịch sử phát triển của vật lý.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Sự đối xứng.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Sự tối ưu hoá.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Tính lỏng.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Đường thẳng song song.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Điểm vô tận.md",
+    "⚡Hiểu biết sâu/❓Sự khác biệt giữa metaphor circular và vật lý luận là gì.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Tính dẻo thần kinh, ẩn dụ, và thiên địa nhân tam hợp.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Áp dụng vật lý trong KHXH&NV.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Dao động tử điều hoà như là.md",
+    "📐 Dự án/Metaphor circular.md",
+    "📐 Dự án/Áp dụng vật lý trong KHXH&NV.md",
+    "⚡Hiểu biết sâu/Metaphor circular.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/New folder",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Những chủ đề vật lý có tầm ảnh hưởng liên ngành.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Đường thẳng song song.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Điểm vô tận.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Sự đối xứng.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Tính lỏng.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Sự tối ưu hoá.md",
+    "📐 Dự án/Những chủ đề vật lý có tầm ảnh hưởng liên ngành.md",
+    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học",
+    "📐 Dự án/New folder",
+    "📐 Dự án/❓Sự khác biệt giữa metaphor circular và vật lý luận là gì.md",
+    "📐 Dự án/Tính dẻo thần kinh, ẩn dụ, và thiên địa nhân tam hợp.md",
+    "📐 Dự án/Dao động tử điều hoà như là.md",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Nguyễn Hoàng Hải.md",
+    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu",
+    "📜Tài nguyên/Giải pháp kỹ thuật/New folder",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Tài liệu/Khai thác một từ khoá.pdf",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Học tập, hiểu biết/~syncthing~Lúc mới học thì cần chất lượng hơn là nhanh.md.tmp",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~Tiếng Anh càng làm mình muốn đọc lướt hơn.md.tmp",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~321f1ccf0cbaf1d9a558cd4b5bfee9069a13d6760b6b9259788a8aa8f69590b2.tmp",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
+    "Untitled.canvas",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm.png",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (neato).png",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (dot).png",
+    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Thuý Hoà.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Mai Quang.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/whiteboard.png",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/sponge.png"
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-08-03T16:17
+updated: 2024-08-11T16:55
 ---
 Khái niệm:: [[Ẩn dụ]]
 > I mean, it is, you understand where that dream comes from culturally, right? We, we've always been, so this comes back to Descartes a bit. He split the mind from the body and him and many other thinkers who came after him that they made very clear that the body was sort of our more animalistic nature.
@@ -13,3 +13,9 @@ Khái niệm:: [[Ẩn dụ]]
 > And they found out so much of the way that we reason and think about the world in what we would consider our logical way is spatial. And it's completely linked to our bodies and our emotions. And there is no, you know, there is no separation of mind and body is like the punchline.
 
 Nguồn:: [[Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=17:10)
+
+> I also address some neuroimaging studies that can speak to the question of metaphoric conceptual organization without explicit use of linguistic metaphors. Evidence suggests that metaphors are indeed grounded in sensory-motor systems. The case of idioms is less clear, and I suggest that they might be grounded in a qualitatively different manner than metaphors at higher levels of the action hierarchy. For some specific abstract concepts, there is also nonlinguistic neural evidence for metaphoric conceptual organization.
+
+Nguồn:: [Are Metaphors Embodied? The Neural Evidence - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10171917/)
+
+[[❓Có sự đồng nhất giữa kích thích tâm lý và kích thích sinh lý]]

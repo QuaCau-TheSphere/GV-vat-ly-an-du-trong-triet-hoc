@@ -8,13 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ff374789d55b95c",
+            "id": "68661f8c73dacef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
-                "mode": "preview",
+                "file": "Vật lý và ẩn dụ liên ngành.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0a215f7c2c983b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Vật lý/Năng lượng cũng không tự sinh ra cũng không tự mất đi, mà chỉ chuyển từ dạng này sang dạng khác.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
+                "file": "Vật lý và ẩn dụ liên ngành.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
+                "file": "Vật lý và ẩn dụ liên ngành.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md"
+                "file": "Vật lý và ẩn dụ liên ngành.md"
               }
             }
           }
@@ -139,67 +152,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "4ff374789d55b95c",
+  "active": "68661f8c73dacef1",
   "lastOpenFiles": [
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Vấn đề của các sách vật lý viết cho độc giả phổ thông là chúng bị bám vào lịch sử phát triển của vật lý.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Sự đối xứng.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Sự tối ưu hoá.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Tính lỏng.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Đường thẳng song song.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Điểm vô tận.md",
-    "⚡Hiểu biết sâu/❓Sự khác biệt giữa metaphor circular và vật lý luận là gì.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Tính dẻo thần kinh, ẩn dụ, và thiên địa nhân tam hợp.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Áp dụng vật lý trong KHXH&NV.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Dao động tử điều hoà như là.md",
-    "📐 Dự án/Metaphor circular.md",
-    "📐 Dự án/Áp dụng vật lý trong KHXH&NV.md",
-    "⚡Hiểu biết sâu/Metaphor circular.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Các chủ đề",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/New folder",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Những chủ đề vật lý có tầm ảnh hưởng liên ngành.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Đường thẳng song song.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Điểm vô tận.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Sự đối xứng.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Tính lỏng.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học/Sự tối ưu hoá.md",
-    "📐 Dự án/Những chủ đề vật lý có tầm ảnh hưởng liên ngành.md",
-    "📐 Dự án/Ứng dụng vật lý trong nghiên cứu các chủ đề triết học",
-    "📐 Dự án/New folder",
-    "📐 Dự án/❓Sự khác biệt giữa metaphor circular và vật lý luận là gì.md",
-    "📐 Dự án/Tính dẻo thần kinh, ẩn dụ, và thiên địa nhân tam hợp.md",
-    "📐 Dự án/Dao động tử điều hoà như là.md",
-    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Nguyễn Hoàng Hải.md",
-    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu",
-    "📜Tài nguyên/Giải pháp kỹ thuật/New folder",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Tài liệu/Khai thác một từ khoá.pdf",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Học tập, hiểu biết/~syncthing~Lúc mới học thì cần chất lượng hơn là nhanh.md.tmp",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~Tiếng Anh càng làm mình muốn đọc lướt hơn.md.tmp",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~321f1ccf0cbaf1d9a558cd4b5bfee9069a13d6760b6b9259788a8aa8f69590b2.tmp",
+    "⚡Hiểu biết sâu/Ξ Nguồn/dsfsdf.md",
+    "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ được nhúng trong các neuron não. Chúng tồn tại dưới dạng vật lý.md",
+    "⚡Hiểu biết sâu/Nhận thức/❓Có sự đồng nhất giữa kích thích tâm lý và kích thích sinh lý.md",
+    "⚡Hiểu biết sâu/Sự sống/Hành vi của sinh vật chịu tác động bởi các kích thích từ môi trường, gồm kích thích sinh lý hoặc kích thích tâm lý.md",
+    "⚡Hiểu biết sâu/Vật lý luận/❓Kích thích sinh lý là sự cộng hưởng của các dao động tử.md",
+    "Vật lý và ẩn dụ liên ngành.md",
+    "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận.md",
+    "⚡Hiểu biết sâu/Ẩn dụ/Ẩn dụ làm tô đậm những tính chất được chia sẻ, và ẩn đi những tính chất không được chia sẻ.md",
+    "⚡Hiểu biết sâu/Ẩn dụ/Các ẩn dụ tri nhận cơ bản dựa trên mối tương quan của cơ thể và xung quanh.md",
+    "⚡Hiểu biết sâu/Ẩn dụ/Chúng ta sống bằng ẩn dụ.md",
+    "⚡Hiểu biết sâu/Vật lý/Nhiệt động học/Maximum Entropy is a Foundation for Complexity Science.md",
+    "⚡Hiểu biết sâu/Triết học/Deleuze dao động tử.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Deleuze.md",
+    "📐 Dự án/Xoá bỏ sự bắt nạt.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Vật lý/Dao động tử.md",
+    "⚡Hiểu biết sâu/Vật lý/Kích thích năng lượng chính là sự cộng hưởng của dao động tử điều hoà.md",
+    "⚡Hiểu biết sâu/Vật lý/Năng lượng cũng không tự sinh ra cũng không tự mất đi, mà chỉ chuyển từ dạng này sang dạng khác.md",
+    "⚡Hiểu biết sâu/Vật lý/Vật lý làm việc với dao động tử điều hòa ở các cấp độ càng ngày càng trừu tượng hơn.md",
+    "⚡Hiểu biết sâu/Vật lý/❓Trường vector biểu diễn dưới dạng dao động tử thế nào.md",
+    "⚡Hiểu biết sâu/Vật lý/❓Mối liên hệ giữa dao động tử điều hoà và quả cầu Riemann.md",
+    "⚡Hiểu biết sâu/Vật lý/❓Có thể miêu tả nguyên lý tăng entropy và nguyên lý tác dụng tối thiểu qua dao động tử điều hoà.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Vật lý/Tác dụng.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Vật lý/Nhóm đối xứng.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Vật lý/Trường.md",
+    "⚡Hiểu biết sâu/Nhân học/Các cuộc đối thoại chủ yếu ở tạp chí khoa học.md",
+    "⚡Hiểu biết sâu/Nhân học/Crackpot là những người không có điều kiện để được đào tạo bài bản.md",
+    "⚡Hiểu biết sâu/Vật lý/Nhiệt động học",
+    "⚡Hiểu biết sâu/Vật lý/New folder",
+    "Ξ Thiết lập/Ảnh/favicon.svg",
+    "Ξ Thiết lập/Ảnh/Trường vector 2.jpeg",
+    "Ξ Thiết lập/Ảnh",
+    "Ξ Thiết lập/Ảnh/Phổ điện từ.png",
+    "Ξ Thiết lập/Ảnh/Understanding Lightning Slow Motion Video Of Lightning Flashes.gif",
+    "Ξ Thiết lập/Ảnh/firefox_2018-03-20_15-18-09.png",
+    "Ξ Thiết lập/Ảnh/firefox_2018-03-20_15-18-58.png",
+    "Ξ Thiết lập/Ảnh/Pendulum.jpg",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Sự sống, nhận thức",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/New folder",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Vật lý",
+    "⚡Hiểu biết sâu/Ξ Khái niệm",
+    "⚡Hiểu biết sâu/Vật lý luận",
+    "⚡Hiểu biết sâu/Sự sống/~syncthing~Các sinh vật không có tinh thần chỉ có kích thích sinh lý, không có kích thích tâm lý.md.tmp",
+    "⚡Hiểu biết sâu/Sự sống/~syncthing~Các quá trình nhận thức được sinh ra nhằm tối ưu hoá việc tự sao.md.tmp",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas",
     "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm.png",
     "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (neato).png",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (dot).png",
-    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Thuý Hoà.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Mai Quang.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/whiteboard.png",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/sponge.png"
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (dot).png"
   ]
 }

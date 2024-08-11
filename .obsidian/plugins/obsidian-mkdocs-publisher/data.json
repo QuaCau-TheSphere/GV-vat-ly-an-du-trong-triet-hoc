@@ -1,7 +1,7 @@
 {
   "github": {
     "user": "QuaCau-TheSphere",
-    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
+    "repo": "GW-vat-ly-an-du-trong-triet-hoc",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
@@ -41,7 +41,7 @@
       }
     ],
     "verifiedRepo": true,
-    "rateLimit": 4359
+    "rateLimit": 4994
   },
   "upload": {
     "behavior": "obsidian",
@@ -61,8 +61,11 @@
         "docs/assets/js",
         "docs/assets/meta",
         "docs/assets/css",
-        "tags.md",
-        "graph.md"
+        "docs/assets/favicon.svg",
+        "docs/assets/favicon.ico",
+        "docs/favicon.svg",
+        "docs/_data.yaml",
+        "docs/_includes/og_image.jsx"
       ]
     },
     "folderNote": {
@@ -77,7 +80,7 @@
     "subFolder": ""
   },
   "conversion": {
-    "hardbreak": false,
+    "hardbreak": true,
     "dataview": true,
     "censorText": [
       {
@@ -119,7 +122,8 @@
       "tsx",
       "json",
       "jsonc",
-      "yaml"
+      "yaml",
+      "svg"
     ],
     "sendSimpleLinks": true,
     "forcePushAttachments": [],
@@ -150,5 +154,5 @@
     "dev": true
   },
   "tabsID": "text-conversion",
-  "tabsId": "upload-configuration"
+  "tabsId": "text-conversion"
 }
